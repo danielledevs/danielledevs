@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Dani!
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🌱 Estudante de JavaScript, HTML e CSS
 
 
 <div>
